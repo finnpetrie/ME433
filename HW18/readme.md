@@ -1,2 +1,2 @@
-Final assignment for ME433. Unfortunately I could not finish the line following algorithm in time.
+Final assignment for ME433. Unfortunately I could not finish the line following algorithm in time - currently the robot drives forward.
 Included are designs, code that controls the robot, and images of the robot.
